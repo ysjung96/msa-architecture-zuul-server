@@ -19,3 +19,5 @@
 
 org.eclipse.wst.common.project.facet.core.xml
 
+/.gradle
+/bin
